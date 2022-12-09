@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Zhafran</h1>
 <h3 align="center">I have been a programmer for 3 years and still learning others language</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node JS, Flutter**
 
-- 💬 Ask me about **I'm just a kids from Indonesia :D**
+- 💬 Ask me about **I'm just a kids from Indonesia**
 
 - 📫 How to reach me **zhafran.ph@gmail.com**
 
@@ -15,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zhafran_ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhafran_ph" height="30" width="40" /></a>
-<a href="https://discord.gg/VeLix#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VeLix#" height="30" width="40" /></a>
+<a href="https://discord.gg/VeLix#2905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VeLix#2905" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
